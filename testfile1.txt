@@ -2,3 +2,4 @@ this is to test if the files copy in correctly before being deleted.
 - testing benefits of coworking.org
 - testing benefits of coworking.com
 - testing benefits of coworking.co
+- testnig benefits of coworking.net
