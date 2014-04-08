@@ -2,5 +2,5 @@ this is to test if the files copy in correctly before being deleted.
 - testing benefits of coworking.org
 - testing benefits of coworking.com
 - testing benefits of coworking.co
-- testing benefits of coworking.net again. 2 AND AGAIN 2. Changing file name.
+- testing benefits of coworking.net again. 2 AND AGAIN 2. Changing file name. and again after setting run permissions on the file.
 - testing benefits of coworking.me again 2a
