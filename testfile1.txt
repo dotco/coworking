@@ -1,6 +1,0 @@
-this is to test if the files copy in correctly before being deleted.
-- testing benefits of coworking.org
-- testing benefits of coworking.com
-- testing benefits of coworking.co
-- testing benefits of coworking.net again. Probably should not have erased the folder if it was working fine...
-- testing benefits of coworking.me again 2a
