@@ -14,7 +14,7 @@ if (!function_exists('connect_to_db')) {
 
         if ($db_conn) return $db_conn;
 
-        $db_conn = mysql_pconnect($DB_CONFIG['host'], $DB_CONFIG['username'], $DB_CONFIG['password']) or die('mysql_connect: ' . mysql_error());
+        $db_conn = mysql_connect($DB_CONFIG['host'], $DB_CONFIG['username'], $DB_CONFIG['password']) or die('mysql_connect: ' . mysql_error());
         mysql_select_db($DB_CONFIG['db']) or die('mysql_select: ' . mysql_error());
     }
 }
